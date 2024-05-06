@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rubén Valle</h1>
 <h3 align="center">A passionate AI developer from Spain</h3>
 
-<p align="left"> <a href="https://twitter.com/vallelxv" target="blank"><img src="https://img.shields.io/twitter/follow/vallelxv?logo=twitter&style=for-the-badge" alt="vallelxv" /></a> </p>
-
 - 🔭 I’m currently working on **..**
 
 - 🌱 I’m currently learning **..**
@@ -25,8 +23,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vallelxv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vallelxv" height="30" width="40" /></a>
-<a href="https://instagram.com/rvallelxv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rvallelxv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
